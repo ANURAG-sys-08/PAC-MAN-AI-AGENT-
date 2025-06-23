@@ -14,7 +14,6 @@ Installation
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/dcqn-pacman.git
 cd dcqn-pacman
 pip install -r requirements.txt
 Usage
